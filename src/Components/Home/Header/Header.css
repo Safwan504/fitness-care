@@ -1,0 +1,6 @@
+.header-css{
+    background-image: linear-gradient(to bottom, rgb(0, 0, 0), rgba(6, 2, 41, 0.568)), url(../../../images/bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}

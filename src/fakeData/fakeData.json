@@ -1,0 +1,30 @@
+[
+    {
+        "course": "Fitness Course",
+        "duration": "Per Month",
+        "image": "https://i.ibb.co/5FFNPMf/fitness.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error commodi autem repellat excepturi.",
+        "fee": "$29.99"
+    },
+    {
+        "course": "Yoga Course",
+        "duration": "Per Month",
+        "image": "https://i.ibb.co/R6Lt1W5/yoga.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error commodi autem repellat excepturi.",
+        "fee": "$19.99"
+    },
+    {
+        "course": "Dance and Fitness Combo",
+        "duration": "Per Month",
+        "image": "https://i.ibb.co/cY8LY2V/dance.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error commodi autem repellat excepturi.",
+        "fee": "$25.99"
+    },
+    {
+        "course": "Pregnancy Yoga Excercise",
+        "duration": "Per Month",
+        "image": "https://i.ibb.co/NLW28nj/preg.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error commodi autem repellat excepturi.",
+        "fee": "$11.99"
+    }
+]
